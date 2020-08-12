@@ -1,7 +1,10 @@
 # chopped-analysis
- An analysis of 10+ years of Food Network's Chopped with Python
+An analysis of 10+ years of Food Network's Chopped with Python
+Data courtesy of Jeffrey Braun https://www.kaggle.com/jeffreybraun/chopped-10-years-of-episode-data
 
-Answers two major questions
+
+
+## Answers two major Questions
 
 ### 1. Which judges have judged the most
 
