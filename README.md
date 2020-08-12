@@ -1,5 +1,6 @@
 # chopped-analysis
 An analysis of 10+ years of Food Network's Chopped with Python
+
 Data courtesy of Jeffrey Braun https://www.kaggle.com/jeffreybraun/chopped-10-years-of-episode-data
 
 
