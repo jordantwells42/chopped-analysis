@@ -11,6 +11,6 @@ Data courtesy of Jeffrey Braun https://www.kaggle.com/jeffreybraun/chopped-10-ye
 
 ### 2. Which basket ingredients appear the most often?
 
-## And generates one model
+## And Generates One Model
 
 ### Can we generate new baskets based off previous ones?
