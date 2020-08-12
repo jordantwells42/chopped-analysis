@@ -3,6 +3,6 @@
 
 Answers two major questions
 
-## Which judges have judged the most
+### Which judges have judged the most
 
-## Which basket ingredients appear the most often?
+### Which basket ingredients appear the most often?
